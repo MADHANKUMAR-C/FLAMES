@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FLAMES</string>
+    <string name="name1">Enter name 1</string>
+    <string name="name2">Enter name 2</string>
+    <string name="cal">Calculate</string>
+    <string name="owner">FLAMES, A project by MADHAN</string>
+</resources>
